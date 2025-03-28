@@ -1,3 +1,5 @@
+# Live Preview:- https://instagram-story-like-clone.vercel.app/
+
 # Instagram Story & Like Clone
 
 Instagram Story & Like Clone is a web-based project that replicates the popular Instagram features of viewing stories and liking posts. This project demonstrates the use of HTML, CSS, and JavaScript to create an interactive and visually appealing user experience.
